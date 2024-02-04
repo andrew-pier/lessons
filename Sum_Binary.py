@@ -9,6 +9,7 @@ def sum_binary(num_1, num_2):
 
 
 sum_binary('11100', '1100')
+# Проверка GitHub
 
 
 
